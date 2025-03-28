@@ -1,11 +1,11 @@
 
-# Doctors Appoinments Frontend
+# Doctors Appointments Frontend
 
-> Doctors Appoinments frontend is react forntend application for doctor book appoinemnts. This applications is responsive and users can load, create, and delete doctors and reservations. Users need to sign up or sign in to access application. They can sign up or sign in using the sign up and login forms.
+> Doctors Appoinments frontend is react frontend application for doctor book appoinemnts. This applications is responsive and users can load, create, and delete doctors and reservations. Users need to sign up or sign in to access application. They can sign up or sign in using the sign up and login forms.
 
 ## Link to the backend
 
-[Book Appoinments Backend](https://github.com/zeff96/doctor_appointment_back_end)
+[Book Appointments Backend](https://github.com/zeff96/doctor_appointment_back_end)
 
 ## Kanban Board
 [Kanban Board](https://github.com/users/zeff96/projects/9)
@@ -23,19 +23,19 @@
 
 ### Home Page
 
-![screenshot](![Alt text](<Screenshot from 2023-07-27 04-28-42.png>))
+![screenshot](<Screenshot from 2023-07-27 04-28-42.png>)
 
 ### Details Page
 
-![screenshot](./![Alt text](<Screenshot from 2023-07-27 04-30-38.png>))
+![screenshot](<Screenshot from 2023-07-27 04-30-38.png>)
 
-### Book Appoinments Page
+### Book Appointments Page
 
-![screenshot](./![Alt text](<Screenshot from 2023-07-27 04-31-36.png>))
+![screenshot](<Screenshot from 2023-07-27 04-31-36.png>)
 
 ### Appointments Page
 
-![screenshot](./![Alt text](<Screenshot from 2023-07-27 04-31-36-1.png>))
+![screenshot](<Screenshot from 2023-07-27 04-31-36-1.png>)
 
 ## Built With
 
